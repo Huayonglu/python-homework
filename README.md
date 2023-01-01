@@ -1,2 +1,2 @@
-# Fintech-Challenge-2
+# python-homework
 This is home work for Python
